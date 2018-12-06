@@ -5,10 +5,13 @@
 *   (budowniczy)                        *  
 *   www.algorytm.org                    *
 *   Opracowal Dworak Kamil              *
+* "Ver 1.1"                             *
 *****************************************/
  
 #include <iostream>
 #include <string>
+#include "stdafx.h"
+
 using namespace std;
  
  
