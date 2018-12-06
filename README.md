@@ -1,4 +1,6 @@
 # Projekt_DP
 
 Karol Oskroba
-Jakub Kędziora
+Jakub Kędziora\
+
+Dodac wersje do plikow
