@@ -1,4 +1,5 @@
 # Projekt_DP
 
-Karol Oskroba
-Jakub Kędziora
+Karol Oskroba,
+Jakub Kędziora,
+Krzystof Padzik
