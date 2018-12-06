@@ -2,4 +2,5 @@
 
 Karol Oskroba,
 Jakub Kędziora,
-Krzystof Padzik
+Krzysztof Padzik
+
